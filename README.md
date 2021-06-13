@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yashppawar
-- 👀 I’m interested in Computers, Physics and Environment
+- 👀 I’m interested in Computer Science, Physics and Environment
 - 🌱 I’m currently learning AI, ML and JavaScript
 <!-- - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... -->
