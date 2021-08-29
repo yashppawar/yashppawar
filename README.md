@@ -21,8 +21,8 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
     <div style="display: inline-block;">
         <a href="https://github.com/yashppawar">
-            <img align="center" src="https://github-readme-stats.vercel.app/api?username=yashppawar&hide=issue&show_icons=true&theme=darcula" alt="Yash's Github Stats" height="200">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashppawar&layout=compact&theme=darcula" alt="Yash's Top Langs" height="200">
+            <img align="center" src="https://github-readme-stats.vercel.app/api?username=yashppawar&hide=issue&show_icons=true&theme=darcula" alt="Yash's Github Stats" height="150">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashppawar&layout=compact&theme=darcula" alt="Yash's Top Langs" height="150">
             <!-- [![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashppawar&hide=issues&show_icons=true&theme=darcula)](https://github.com/yashppawar) -->
             <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashppawar&layout=compact&theme=darcula)](https://github.com/yashppawar) -->
         </a>
