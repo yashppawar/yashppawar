@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 # Stats
 
 <p align="center">
-    <div style="display: inline-block;">
+    <div style="display: inline-block;margin: auto;">
         <a href="https://github.com/yashppawar">
             <img src="https://github-readme-stats.vercel.app/api?username=yashppawar&hide=issue&show_icons=true&theme=darcula" alt="Yash's Github Stats" height="150">
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashppawar&layout=compact&theme=darcula" alt="Yash's Top Langs" height="150">
