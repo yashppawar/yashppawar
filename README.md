@@ -14,6 +14,7 @@ You can click the Preview link to take a look at your changes.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-pawar-59a623214/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yashPawar#4006)
 [![Twitter](https://img.shields.io/badge/Twitter-1A8CD8?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YashPaw66294803)
+[![kaggle](https://img.shields.io/badge/kaggle-31C3FF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/yashpawarp)
 [![Replit](https://img.shields.io/badge/Replit.com-1D2021?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@yashpawar)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yashpawarp)
 
@@ -30,11 +31,20 @@ You can click the Preview link to take a look at your changes.
 [![Java](https://img.shields.io/badge/Java-Basics-E51F24?style=for-the-badge&logo=java)](https://docs.oracle.com/en/java/) 
 [![C++](https://img.shields.io/badge/C++-Basics-6295CB?style=for-the-badge&logo=cplusplus)]() 
 [![C](https://img.shields.io/badge/C-Basics-00427E?style=for-the-badge&logo=c)]() 
+[![Markdown](https://img.shields.io/badge/Markdown-Basics-0077B5?style=for-the-badge&logo=markdown)](https://en.wikipedia.org/wiki/Markdown)
 [![Julia](https://img.shields.io/badge/Julia-learning-8B549B?style=for-the-badge&logo=Julia)](https://julialang.org) 
 [![Octave](https://img.shields.io/badge/Octave-learning-3EAECE?style=for-the-badge&logo=octave)](https://www.gnu.org/software/octave/index) 
 [![Matlab](https://img.shields.io/badge/Matlab-learning-6BA299?style=for-the-badge&logo=matlab)](https://matlab.mathworks.com/) 
 
-
+## Tools 
+[![Git](https://img.shields.io/badge/Git-FF5611?style=for-the-badge&logo=git)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-FF7510?style=for-the-badge&logo=github)](https://github.com/)
+[![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0032FF?style=for-the-badge&logo=visualstudio)](https://code.visualstudio.com/)
+[![Vim](https://img.shields.io/badge/Vim-00FF76?style=for-the-badge&logo=vim)](https://www.vim.org/)
+[![PyCharm](https://img.shields.io/badge/PyCharm-4C4C4C?style=for-the-badge&logo=pycharm)](https://www.jetbrains.com/pycharm/)
+[![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-4C4C4C?style=for-the-badge&logo=intellij%20idea)](https://www.jetbrains.com/idea/)
+[![Bash](https://img.shields.io/badge/Bash-58FF37?style=for-the-badge&logo=gnu%20bash)](https://www.gnu.org/software/bash/)
+[![Colab](https://img.shields.io/badge/Google_Colab-FFF300?style=for-the-badge&logo=google%20colab)](https://colab.research.google.com/)
 
 # Stats
 
