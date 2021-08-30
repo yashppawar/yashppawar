@@ -17,6 +17,25 @@ You can click the Preview link to take a look at your changes.
 [![Replit](https://img.shields.io/badge/Replit.com-1D2021?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@yashpawar)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yashpawarp)
 
+# Tools and Technologies
+## PC
+[![Windows](https://img.shields.io/badge/Windows-laptop-0078D6?style=for-the-badge&logo=windows)](https://www.microsoft.com/en/windows/)
+[![Windows Acer Swift 5](https://img.shields.io/badge/Linux-laptop_and_VM-51A2DA?style=for-the-badge&logo=linux)](https://www.google.com/search?q=linux)
+
+## Languages
+[![Python](https://img.shields.io/badge/Python-Main_Language-3776AB?style=for-the-badge&logo=python)](https://www.python.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-Basics-FFCE5A?style=for-the-badge&logo=javascript)](https://www.javascript.com/)
+[![HTML](https://img.shields.io/badge/HTML-Basics-DD4A24?style=for-the-badge&logo=html)](https://www.w3schools.com/html/default.asp)
+[![CSS](https://img.shields.io/badge/CSS-Basics-254BDD?style=for-the-badge&logo=css)](https://www.w3schools.com/css/default.asp) 
+[![Java](https://img.shields.io/badge/Java-Basics-E51F24?style=for-the-badge&logo=java)](https://docs.oracle.com/en/java/) 
+[![C++](https://img.shields.io/badge/C++-Basics-6295CB?style=for-the-badge&logo=cplusplus)]() 
+[![C](https://img.shields.io/badge/C-Basics-00427E?style=for-the-badge&logo=c)]() 
+[![Julia](https://img.shields.io/badge/Julia-learning-8B549B?style=for-the-badge&logo=Julia)](https://julialang.org) 
+[![Octave](https://img.shields.io/badge/Octave-learning-3EAECE?style=for-the-badge&logo=octave)](https://www.gnu.org/software/octave/index) 
+[![Matlab](https://img.shields.io/badge/Matlab-learning-6BA299?style=for-the-badge&logo=matlab)](https://matlab.mathworks.com/) 
+
+
+
 # Stats
 
 <p align="center">
