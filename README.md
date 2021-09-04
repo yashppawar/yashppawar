@@ -60,7 +60,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <p align="center">
-    <a href="https://github.com/yashpawar">
+    <a href="https://github.com/yashppawar">
     	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashppawar&theme=onedark&count_private=true&theme=darcula">
     </a>
 </p>
