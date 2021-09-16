@@ -31,7 +31,7 @@ You can click the Preview link to take a look at your changes.
 [![Java](https://img.shields.io/badge/Java-Basics-E51F24?style=for-the-badge&logo=java)](https://docs.oracle.com/en/java/) 
 [![C++](https://img.shields.io/badge/C++-Basics-6295CB?style=for-the-badge&logo=cplusplus)]()
 [![C](https://img.shields.io/badge/C-Basics-00427E?style=for-the-badge&logo=c)]() 
-[![R](https://img.shields.io/badge/R-Basics-#276DC3?style=for-the-badge&logo=c)](https://www.r-project.org/about.html)
+[![R](https://img.shields.io/badge/R-Basics-276DC3?style=for-the-badge&logo=c)](https://www.r-project.org/about.html)
 [![Markdown](https://img.shields.io/badge/Markdown-Basics-0077B5?style=for-the-badge&logo=markdown)](https://en.wikipedia.org/wiki/Markdown)
 [![Julia](https://img.shields.io/badge/Julia-learning-8B549B?style=for-the-badge&logo=Julia)](https://julialang.org) 
 [![Octave](https://img.shields.io/badge/Octave-learning-3EAECE?style=for-the-badge&logo=octave)](https://www.gnu.org/software/octave/index) 
