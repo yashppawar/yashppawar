@@ -26,8 +26,8 @@ You can click the Preview link to take a look at your changes.
 ## Languages
 [![Python](https://img.shields.io/badge/Python-Main_Language-3776AB?style=for-the-badge&logo=python)](https://www.python.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-Basics-FFCE5A?style=for-the-badge&logo=javascript)](https://www.javascript.com/)
-[![HTML](https://img.shields.io/badge/HTML-Basics-DD4A24?style=for-the-badge&logo=html)](https://www.w3schools.com/html/default.asp)
-[![CSS](https://img.shields.io/badge/CSS-Basics-254BDD?style=for-the-badge&logo=css)](https://www.w3schools.com/css/default.asp) 
+[![HTML](https://img.shields.io/badge/HTML-Basics-DD4A24?style=for-the-badge&logo=html5)](https://www.w3schools.com/html/default.asp)
+[![CSS](https://img.shields.io/badge/CSS-Basics-254BDD?style=for-the-badge&logo=css3)](https://www.w3schools.com/css/default.asp) 
 [![Java](https://img.shields.io/badge/Java-Basics-E51F24?style=for-the-badge&logo=java)](https://docs.oracle.com/en/java/) 
 [![C++](https://img.shields.io/badge/C++-Basics-6295CB?style=for-the-badge&logo=cplusplus)]()
 [![C](https://img.shields.io/badge/C-Basics-00427E?style=for-the-badge&logo=c)]() 
