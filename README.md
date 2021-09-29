@@ -36,6 +36,8 @@ You can click the Preview link to take a look at your changes.
 [![Windows](https://img.shields.io/badge/Windows-laptop-0078D6?style=for-the-badge&logo=windows)](https://www.microsoft.com/en/windows/)
 [![Windows Acer Swift 5](https://img.shields.io/badge/Linux-laptop_and_VM-51A2DA?style=for-the-badge&logo=linux)](https://www.google.com/search?q=linux)
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashppawar&layout=compact&theme=dark" alt="Yash's Top Langs" height="200">
+
 ## Languages
 [![Python](https://img.shields.io/badge/Python-Main_Language-3776AB?style=for-the-badge&logo=python)](https://www.python.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-Basics-FFCE5A?style=for-the-badge&logo=javascript)](https://www.javascript.com/)
@@ -65,8 +67,8 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
     <div style="display: inline-block;margin: auto;">
         <a href="https://github.com/yashppawar">
-            <img src="https://github-readme-stats.vercel.app/api?username=yashppawar&hide=issue&show_icons=true&theme=darcula" alt="Yash's Github Stats" height="150">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashppawar&layout=compact&theme=darcula" alt="Yash's Top Langs" height="150">
+            <img src="https://github-readme-stats.vercel.app/api?username=yashppawar&hide=issue&show_icons=true&theme=gotham" alt="Yash's Github Stats" height="175">
+    	    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashppawar&theme=onedark&count_private=true&theme=gotham" height=175>
             <!-- [![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashppawar&hide=issues&show_icons=true&theme=darcula)](https://github.com/yashppawar) -->
             <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashppawar&layout=compact&theme=darcula)](https://github.com/yashppawar) -->
         </a>
@@ -75,14 +77,6 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
     <a href="https://github.com/yashppawar">
-    	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashppawar&theme=onedark&count_private=true&theme=darcula">
-    </a>
-</p>
-
-
-
-<p align="center">
-    <a href="https://github.com/yashppawar">
-    	<img align="center" src="https://activity-graph.herokuapp.com/graph?username=yashppawar&bg_color=0D1117&color=63F78D&line=77D993&point=C1F7D0&hide_border=true">
+    	<img align="center" src="https://activity-graph.herokuapp.com/graph?username=yashppawar&bg_color=0D1117&color=63F78D&line=77D993&point=C1F7D0&area=true">
     </a>
 </p>
