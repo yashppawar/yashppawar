@@ -1,20 +1,22 @@
 <table>
   <tr>
     <th width="50%">
-        👋 Hi, I’m @yashppawar. <br>
-        👀 I'm interested in CS, Physics, Maths & Nature. <br>
-        🌱 I'm currently learning AI/ML, Data Science. <br>
-        📖 Learning Computer enginering in academics. <br>
-        <!-- - 💞️ I’m looking to collaborate on ...  -->
-        📫 Reach me through my socials ———————————⟶
+
+## Hello friends <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
+👋 I’m @yashppawar. <br>
+👀 I'm interested in CS, Physics, Maths & Nature. <br>
+🌱 I'm currently learning AI/ML, Data Science. <br>
+📖 Learning Computer enginering in academics. <br>
+📫 Reach me through my socials ———————————⟶
     </th>
+<!-- - 💞️ I’m looking to collaborate on ...  -->
 <!--
 yashppawar/yashppawar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 -->
 <th>
 
-# Socials
+# 🔗 Socials
 [![GitHub Yash Pawar](https://img.shields.io/github/followers/yashppawar?label=follow&style=for-the-badge&logo=github&logoColor=white&labelColor=333333)](https://github.com/yashppawar)
 [![Email](https://img.shields.io/badge/Mail-004788?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashpawarp@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-pawar-59a623214/)
@@ -29,12 +31,12 @@ You can click the Preview link to take a look at your changes.
 </tr>
 </table>
 
-# Tools and Technologies
-## PC
+# 🛠 Tools and Technologies
+## 💻 PC
 [![Windows](https://img.shields.io/badge/Windows-laptop-0078D6?style=for-the-badge&logo=windows)](https://www.microsoft.com/en/windows/)
 [![Windows Acer Swift 5](https://img.shields.io/badge/Linux-laptop_and_VM-51A2DA?style=for-the-badge&logo=linux&logoColor=white)](https://www.google.com/search?q=linux)
 
-## Languages
+## 🗣 Languages
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashppawar&layout=compact&theme=dark" alt="Yash's Top Langs" height="200">
 
 [![Python](https://img.shields.io/badge/Python-Main_Language-3776AB?style=for-the-badge&logo=python)](https://www.python.org/)
@@ -50,7 +52,7 @@ You can click the Preview link to take a look at your changes.
 [![Octave](https://img.shields.io/badge/Octave-learning-3EAECE?style=for-the-badge&logo=octave&logoColor=white)](https://www.gnu.org/software/octave/index) 
 [![Matlab](https://img.shields.io/badge/Matlab-learning-6BA299?style=for-the-badge&logo=matlab)](https://matlab.mathworks.com/) 
 
-## Tools 
+## 🔧 Tools 
 [![Git](https://img.shields.io/badge/Git-FF5611?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-22A6F2?style=for-the-badge&logo=visualstudio)](https://code.visualstudio.com/)
@@ -60,7 +62,7 @@ You can click the Preview link to take a look at your changes.
 [![Bash](https://img.shields.io/badge/Bash-272E35?style=for-the-badge&logo=gnu%20bash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![Colab](https://img.shields.io/badge/Google_Colab-FF8C0A?style=for-the-badge&logo=google%20colab&logoColor=white)](https://colab.research.google.com/)
 
-# Stats
+# 📈 Stats
 
 <p align="center">
     <div style="display: inline-block;margin: auto;">
