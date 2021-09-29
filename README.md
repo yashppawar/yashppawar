@@ -1,5 +1,6 @@
-<div style="display: inline-block;margin: auto;">
-    <div>
+<table>
+  <tr>
+    <th width="50%">
         <ul>
             <li> 👋 Hi, I’m @yashppawar </li>
             <li> 👀 I'm interested in CS, Physics, Maths & Nature </li>
@@ -7,13 +8,13 @@
             <!-- - 💞️ I’m looking to collaborate on ... 
             - 📫 How to reach me ... -->
         </ul>   
-    </div>
+    </th>
 
 <!--
 yashppawar/yashppawar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 -->
-<div>
+<th>
 
 # Socials
 [![GitHub Yash Pawar](https://img.shields.io/github/followers/yashppawar?label=follow&style=for-the-badge&logo=github&logoColor=white&labelColor=333333)](https://github.com/yashppawar)
@@ -24,9 +25,11 @@ You can click the Preview link to take a look at your changes.
 [![kaggle](https://img.shields.io/badge/kaggle-31C3FF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/yashpawarp)
 [![Replit](https://img.shields.io/badge/Replit.com-1D2021?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@yashpawar)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yashpawarp)
+<!-- [![GitLab](https://img.shields.io/badge/GitLab-F37510?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/@yashppawar) -->
 
-</div>
-</div>
+</th>
+</tr>
+</table>
 
 # Tools and Technologies
 ## PC
