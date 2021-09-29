@@ -1,13 +1,20 @@
-- 👋 Hi, I’m @yashppawar
-- 👀 I’m interested in Computer Science, Physics and Environment
-- 🌱 I’m currently learning AI, ML and JavaScript
-<!-- - 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ... -->
+<div style="display: inline-block;margin: auto;">
+    <div>
+        <ul>
+            <li> 👋 Hi, I’m @yashppawar </li>
+            <li> 👀 I'm interested in CS, Physics, Maths & Nature </li>
+            <li> 🌱 I'm currently learning AI/ML, Data Science and Julia </li>
+            <!-- - 💞️ I’m looking to collaborate on ... 
+            - 📫 How to reach me ... -->
+        </ul>   
+    </div>
 
 <!--
 yashppawar/yashppawar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 -->
+<div>
+
 # Socials
 [![GitHub Yash Pawar](https://img.shields.io/github/followers/yashppawar?label=follow&style=for-the-badge&logo=github&logoColor=white&labelColor=333333)](https://github.com/yashppawar)
 [![Email](https://img.shields.io/badge/Mail-004788?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashpawarp@gmail.com)
@@ -17,6 +24,9 @@ You can click the Preview link to take a look at your changes.
 [![kaggle](https://img.shields.io/badge/kaggle-31C3FF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/yashpawarp)
 [![Replit](https://img.shields.io/badge/Replit.com-1D2021?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@yashpawar)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yashpawarp)
+
+</div>
+</div>
 
 # Tools and Technologies
 ## PC
