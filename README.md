@@ -1,13 +1,12 @@
 <table>
   <tr>
     <th width="50%">
-        <ul>
-            <li> 👋 Hi, I’m @yashppawar </li>
-            <li> 👀 I'm interested in CS, Physics, Maths & Nature </li>
-            <li> 🌱 I'm currently learning AI/ML, Data Science and Julia </li>
-            <!-- - 💞️ I’m looking to collaborate on ... 
-            - 📫 How to reach me ... -->
-        </ul>   
+        👋 Hi, I’m @yashppawar. <br>
+        👀 I'm interested in CS, Physics, Maths & Nature. <br>
+        🌱 I'm currently learning AI/ML, Data Science. <br>
+        📖 Learning Computer enginering in academics. <br>
+        <!-- - 💞️ I’m looking to collaborate on ...  -->
+        📫 Reach me through my socials ———————————⟶
     </th>
 <!--
 yashppawar/yashppawar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
