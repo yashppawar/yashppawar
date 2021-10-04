@@ -35,9 +35,6 @@ You can click the Preview link to take a look at your changes.
 </table>
 
 # 🛠 Tools and Technologies
-## 💻 PC
-[![Windows](https://img.shields.io/badge/Windows-laptop-0078D6?style=for-the-badge&logo=windows)](https://www.microsoft.com/en/windows/)
-[![Windows Acer Swift 5](https://img.shields.io/badge/Linux-laptop_and_VM-51A2DA?style=for-the-badge&logo=linux&logoColor=white)](https://www.google.com/search?q=linux)
 
 ## 🗣 Languages
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashppawar&layout=compact&theme=dark" alt="Yash's Top Langs" height="200">
@@ -54,6 +51,10 @@ You can click the Preview link to take a look at your changes.
 [![Julia](https://img.shields.io/badge/Julia-learning-8B549B?style=for-the-badge&logo=Julia&logoColor=white)](https://julialang.org) 
 [![Octave](https://img.shields.io/badge/Octave-learning-3EAECE?style=for-the-badge&logo=octave&logoColor=white)](https://www.gnu.org/software/octave/index) 
 [![Matlab](https://img.shields.io/badge/Matlab-learning-6BA299?style=for-the-badge&logo=matlab)](https://matlab.mathworks.com/) 
+
+## 💻 PC
+[![Windows](https://img.shields.io/badge/Windows-laptop-0078D6?style=for-the-badge&logo=windows)](https://www.microsoft.com/en/windows/)
+[![Windows Acer Swift 5](https://img.shields.io/badge/Linux-laptop_and_VM-51A2DA?style=for-the-badge&logo=linux&logoColor=white)](https://www.google.com/search?q=linux)
 
 ## 🔧 Tools 
 [![Git](https://img.shields.io/badge/Git-FF5611?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
