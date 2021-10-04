@@ -2,7 +2,10 @@
   <tr>
     <th width="50%">
 
-## Hello friends <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
+<!-- ## Hello friends <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"> -->
+<!-- ![Hello Friends](https://c.tenor.com/-z2KfO5zAckAAAAC/hello-there-baby-yoda.gif) -->
+<img src="https://c.tenor.com/-z2KfO5zAckAAAAC/hello-there-baby-yoda.gif" align="center" alt="Hello there (baby Yoda)">
+
 👋 I’m @yashppawar. <br>
 👀 I'm interested in CS, Physics, Maths & Nature. <br>
 🌱 I'm currently learning AI/ML, Data Science. <br>
