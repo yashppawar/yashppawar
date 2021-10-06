@@ -52,10 +52,6 @@ You can click the Preview link to take a look at your changes.
 [![Octave](https://img.shields.io/badge/Octave-learning-3EAECE?style=for-the-badge&logo=octave&logoColor=white)](https://www.gnu.org/software/octave/index) 
 [![Matlab](https://img.shields.io/badge/Matlab-learning-6BA299?style=for-the-badge&logo=matlab)](https://matlab.mathworks.com/) 
 
-## 💻 PC
-[![Windows](https://img.shields.io/badge/Windows-laptop-0078D6?style=for-the-badge&logo=windows)](https://www.microsoft.com/en/windows/)
-[![Windows Acer Swift 5](https://img.shields.io/badge/Linux-laptop_and_VM-51A2DA?style=for-the-badge&logo=linux&logoColor=white)](https://www.google.com/search?q=linux)
-
 ## 🔧 Tools 
 [![Git](https://img.shields.io/badge/Git-FF5611?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
@@ -65,6 +61,10 @@ You can click the Preview link to take a look at your changes.
 [![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-4C4C4C?style=for-the-badge&logo=intellij%20idea)](https://www.jetbrains.com/idea/)
 [![Bash](https://img.shields.io/badge/Bash-272E35?style=for-the-badge&logo=gnu%20bash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![Colab](https://img.shields.io/badge/Google_Colab-FF8C0A?style=for-the-badge&logo=google%20colab&logoColor=white)](https://colab.research.google.com/)
+
+## 💻 PC
+[![Windows](https://img.shields.io/badge/Windows-laptop-0078D6?style=for-the-badge&logo=windows)](https://www.microsoft.com/en/windows/)
+[![Windows Acer Swift 5](https://img.shields.io/badge/Linux-laptop_and_VM-51A2DA?style=for-the-badge&logo=linux&logoColor=white)](https://www.google.com/search?q=linux)
 
 # 📈 Stats
 
