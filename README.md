@@ -28,6 +28,7 @@ You can click the Preview link to take a look at your changes.
 [![kaggle](https://img.shields.io/badge/kaggle-31C3FF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/yashpawarp)
 [![Replit](https://img.shields.io/badge/Replit.com-1D2021?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@yashpawar)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yashpawarp)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pawaryashp/)
 <!-- [![GitLab](https://img.shields.io/badge/GitLab-303030?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/yashppawar) -->
  Email: yashpawarp@gmail.com
 
