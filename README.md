@@ -1,9 +1,7 @@
 <table>
   <tr>
     <th width="50%">
-
-<!-- ## Hello friends <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"> -->
-<!-- ![Hello Friends](https://c.tenor.com/-z2KfO5zAckAAAAC/hello-there-baby-yoda.gif) -->
+      
 <img src="https://c.tenor.com/-z2KfO5zAckAAAAC/hello-there-baby-yoda.gif" align="center" alt="Hello there (baby Yoda)">
 
 👋 I’m @yashppawar. <br>
@@ -76,7 +74,6 @@ You can click the Preview link to take a look at your changes.
             <img src="https://github-readme-stats.vercel.app/api?username=yashppawar&hide=issue&show_icons=true&theme=gotham" alt="Yash's Github Stats" height="160">
     	    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashppawar&theme=onedark&count_private=true&theme=gotham" height=160>
             <!-- [![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashppawar&hide=issues&show_icons=true&theme=darcula)](https://github.com/yashppawar) -->
-            <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashppawar&layout=compact&theme=darcula)](https://github.com/yashppawar) -->
         </a>
     </div>
 </p>
