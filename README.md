@@ -6,7 +6,8 @@
 
 👋 I’m @yashppawar. <br>
 👀 I'm interested in CS, Physics, Maths & Nature. <br>
-🌱 I'm currently learning AI/ML, Data Science. <br>
+🌱 I'm currently trying to lear AI/ML, Data Science. <br>
+💪 Started #66DaysOfData. <br>
 📖 Learning Computer enginering in academics. <br>
 📫 Reach me through my socials ———————————⟶
     </th>
