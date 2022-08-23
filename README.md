@@ -7,9 +7,9 @@
 👋 I’m @yashppawar. <br>
 👀 I'm interested in CS, Physics, Maths & Nature. <br>
 🌱 I'm currently trying to lear AI/ML, Data Science. <br>
-💪 Started #66DaysOfData progress visible on my [twitter](https://twitter.com/YashPaw66294803). <br>
 📖 Learning Computer enginering in academics. <br>
 📫 Reach me through my socials ———————————⟶
+<!-- 💪 Started #66DaysOfData progress visible on my [twitter](https://twitter.com/YashPaw66294803). <br> -->
     </th>
 <!-- - 💞️ I’m looking to collaborate on ...  -->
 <!--
@@ -25,10 +25,10 @@ You can click the Preview link to take a look at your changes.
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me/868716243392274472)
 [![Twitter](https://img.shields.io/badge/Twitter-1A8CD8?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yashpawarp)
 [![kaggle](https://img.shields.io/badge/kaggle-31C3FF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/yashpawarp)
-<!-- [![Replit](https://img.shields.io/badge/Replit.com-1D2021?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@yashpawar) -->
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://yashppawar.medium.com/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pawaryashp/)
 <!-- [![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/yashppawar) -->
+<!-- [![Replit](https://img.shields.io/badge/Replit.com-1D2021?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@yashpawar) -->
  Email: yashpawarp@gmail.com
 
 </th>
