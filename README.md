@@ -9,8 +9,8 @@
 🌱 I'm currently trying to lear AI/ML, Data Science. <br>
 📖 Learning Computer enginering in academics. <br>
 📫 Reach me through my socials ———————————⟶
-<!-- 💪 Started #66DaysOfData progress visible on my [twitter](https://twitter.com/YashPaw66294803). <br> -->
     </th>
+<!-- 💪 Started #66DaysOfData progress visible on my [twitter](https://twitter.com/YashPaw66294803). <br> -->
 <!-- - 💞️ I’m looking to collaborate on ...  -->
 <!--
 yashppawar/yashppawar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,6 +27,7 @@ You can click the Preview link to take a look at your changes.
 [![kaggle](https://img.shields.io/badge/kaggle-31C3FF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/yashpawarp)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://yashppawar.medium.com/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pawaryashp/)
+<!-- [![Hugging Face Spaces](https://img.shields.io/badge/Spaces-12100E?style=for-the-badge&logo=huggingface&logoColor=Yellow)](https://huggingface.co/yashppawar) -->
 <!-- [![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/yashppawar) -->
 <!-- [![Replit](https://img.shields.io/badge/Replit.com-1D2021?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@yashpawar) -->
  Email: yashpawarp@gmail.com
